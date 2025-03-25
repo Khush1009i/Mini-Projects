@@ -3,7 +3,7 @@
 A collection of **small, focused web projects** designed to strengthen **frontend development skills**. These projects cover essential web development concepts and help in mastering **UI interactions, data handling, animations, and logic implementation.**  
 
 ---
-
+<!--
 ### ✨ **Why Mini Projects?**  
 
 🔹 **Hands-On Learning** – Implement real-world functionalities instead of just theory.  
@@ -13,7 +13,7 @@ A collection of **small, focused web projects** designed to strengthen **fronten
 🔹 **Quick & Effective** – Small-scale, time-efficient coding challenges.  
 
 ---
-
+-->>
 
 ### 🛠 **Tech Stack**  
 
