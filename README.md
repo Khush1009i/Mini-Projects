@@ -58,6 +58,7 @@ Here’s a **cleaner and more creative version** of your table with better align
 | 19 | 🕰️ **Theme Clock**      | [📂 View Code](https://github.com/Khush1009i/mini--projects/tree/main/theme-clock) | [🚀 Live Preview](https://rainbow-crostata-983adf.netlify.app/) |  
 | 20 | 🖇️ **To-Do List**      | [📂 View Code](https://github.com/Khush1009i/mini--projects/tree/main/to-do%20list) | [🚀 Live Preview](https://fanciful-bavarois-cfba54.netlify.app/) |  
 | 21 | ✍️ **Typing Speed Game** | [📂 View Code](https://github.com/Khush1009i/mini--projects/tree/main/typing-game) | [🚀 Live Preview](https://peppy-kheer-ee823a.netlify.app/) |  
+| 21 | ✍️ **Navighation bar** | [📂 View Code](https://github.com/Khush1009i/mini--projects/tree/main/typing-game) | [🚀 Live Preview](https://navigationbarbyhr.netlify.app/) |  
 
 ---
 
